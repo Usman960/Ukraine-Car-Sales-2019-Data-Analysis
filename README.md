@@ -4,6 +4,8 @@
 
 Dataset size: 9.5k rows, 10 columns
 
+Link to the dataset: https://www.kaggle.com/datasets/swatikhedekar/eda-on-car-sales-dataset-in-ukraine
+
 Summary of my findings:
 
 ### Data Acquisition:
